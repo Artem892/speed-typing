@@ -1,13 +1,13 @@
-@font-face {
+/* @font-face {
 	font-family: Kharkiv;
 	src: url(Kharkiv.ttf);
-  }
+  } */
 * {
 	border: 0;
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	font-family: Kharkiv;
+
 }
 :root {
 	--hue: 223;
